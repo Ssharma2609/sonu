@@ -1,0 +1,47 @@
+my name is sunakshi.this is my first github project.
+ history
+    1  pwd
+    2  mkdir GITHUB
+    3  git
+    4  pwd
+    5  cd desktop
+    6  cd /c
+    7  git status
+    8  git config --global user.name "sunakshi"
+    9  pwd
+   10  mkdir
+   11  mkdir GITHUB
+   12  pwd
+   13  mkdir
+   14  mkdir GITHUB
+   15  CLR
+   16  pwd
+   17  cd desktop
+   18  cd /c
+   19  pwd
+   20  git --version
+   21  ls
+   22  pwd
+   23  cd GITHUB
+   24  ls
+   25  touch text.txt
+   26  ls
+   27  pwd
+   28  ll
+   29  vi text.txt
+   30  cat text.txt
+   31  git remote add origin https://github.com/Ssharma2609/sonu.git
+   32  git init
+   33  git remote add origin https://github.com/Ssharma2609/sonu.git
+   34  git remote -v
+   35  git status
+   36  git add .
+   37  git status
+   38  ls
+   39  git status
+   40  ls
+   41  git status
+   42  vi text3.txt
+   43  cat text3.txt
+   44  history
+
